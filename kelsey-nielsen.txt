@@ -116,7 +116,7 @@ often, whenever you finish a step
 git push -u origin master
 
 37. Walk me through Lambda's git flow. 
-
+fork the repo, clone it to your local machine, work on the project, then create a pull request for submission
 
 Stretch Questions
 
